@@ -1,6 +1,7 @@
 # DFA Evaluator
 
-## Author
+Theoretical Foundations\
+Project 1 Finite Automata\
 Caden Rosenberry
 
 ## Description
